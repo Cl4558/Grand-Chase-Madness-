@@ -1,0 +1,178 @@
+----------------------------------------------
+              Crash Header                    
+----------------------------------------------
+[BR] Ernasis : GrandChase Madness EP 3  ()
+NickName : Red1
+Login : rejiiow1
+UID : 2654420
+IP : 175.176.1.53
+GlobalUserInfo_CurCharType : 
+GlobalUserInfo_CurCharExp : 105420382
+GlobalUserInfo_CurCharLevel : P
+GlobalUserInfo_CurChar_PetName : Yama
+GlobalUserInfo_CurChar_PetID : 62978
+GlobalUserInfo_CurChar_PetUID : 80264750
+GlobalUserInfo_CurChar_PetEXP : 1561
+TempPlayerUserInfo_CurCharType : 
+TempPlayerUserInfo_CurCharExp : 105420382
+TempPlayerUserInfo_CurCharLevel : P
+TempPlayerUserInfo_CurChar_PetName : Yama
+TempPlayerUserInfo_CurChar_PetID : 62978
+TempPlayerUserInfo_CurChar_PetUID : 80264750
+TempPlayerUserInfo_CurChar_PetEXP : 1561
+----------------------------------------------
+CrashMsg : 
+Story : 6096
+GameState : GS_ROOM
+GameModeCategory : GC_GMC_DUNGEON
+GameMode : GC_GM_QUEST82
+�١١١١١١١١١١١١١١١����� ���Ӹ�� ����� �����߻�!!!!�١١١١١١١١١١١١١١١�
+SkillMotionID ������ ���� ����
+ChannelName : 
+[Pet0] : NoPet
+[Player0] LoginId : Red1 Uid : 2654420
+[ItemInfo]
+9950, 414840, 441970, 441990, 
+442320, 411860, 411870, 411880, 
+411890, 411900, 411910, 1017310, 
+1022780, 451150, 
+[Shortcutslot Info]
+ItemSlot0 Potion_Buff ItemID : 123109 ItemUID : 80271491 ItemKind : 0 count : 66
+ItemSlot1 Potion_Buff ItemID : 102567 ItemUID : 81409218 ItemKind : 1 count : 9
+ItemSlot2 Potion_Buff ItemID : 102565 ItemUID : 81409216 ItemKind : 3 count : 23
+ItemSlot3 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+ItemSlot4 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot0 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot1 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot2 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot3 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot4 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot5 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot6 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot7 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot8 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+EmotSlot9 ItemID : 0 ItemUID : 0 ItemKind : -1 count : 0
+==============================DllChecker Made ================================
+======================== Can't find Mainfile =================================
+
+==============================Checked Dll=====================================
+==============================================================================
+===========================It's not DLL in List===============================
+==============================================================================
+AavmRpch.dll
+CoreMessaging.dll
+CoreUIComponents.dll
+D3DCompiler_47.dll
+DCIMAN32.dll
+DiscordRPC.dll
+FWPolicyIOMgr.dll
+MSVCP110.dll
+MSVCP140.dll
+MSVCR110.dll
+TextInputFramework.dll
+UMPDC.dll
+USERENV.dll
+VCRUNTIME140.dll
+WINMMBASE.dll
+amsi.dll
+aswAMSI.dll
+bcrypt.dll
+bcryptPrimitives.dll
+combase.dll
+d3d12.dll
+d3dx9_43.dll
+ddraw.dll
+discord-rpc.dll
+dll_loader.dll
+dxcore.dll
+fwbase.dll
+gdi32full.dll
+imagehlp.dll
+inputhost.dll
+kernel.appcore.dll
+msvcp_win.dll
+nvldumd.dll
+nvwgf2um.dll
+ondemandconnroutehelper.dll
+resourcepolicyclient.dll
+shcore.dll
+ucrtbase.dll
+win32u.dll
+windows.storage.dll
+winhttp.dll
+wintypes.dll
+wshbth.dll
+==============================================================================
+==============================================================================
+======================Windows NT==============================================
+==========================Didn't Check Dll===================================
+InitTime : 924 
+LeftTime : 924 
+[User History]
+GS_INTRO
+GS_SERVER
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_MY_INFO
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_ROOM
+GS_MY_INFO_FROM_ROOM
+GS_ROOM
+GS_GAME
+GS_ROOM
+GS_WORLDMAP
+GS_CHAR_SELECT
+GS_WORLDMAP
+GS_ROOM
+GS_MY_INFO_FROM_ROOM
+GS_ROOM
+GS_GAME
+GS_ROOM
+GS_GAME
+GS_ROOM
+GS_ROOM
+
+gxxsvc.exe
+OneDrive.exe
+IDMan.exe
+utweb.exe
+Spotify.exe
+IEMonitor.exe
+Spotify.exe
+Spotify.exe
+Spotify.exe
+Spotify.exe
+Main.exe
+=============================================================================
+                  나의 컴퓨터 시스템 정보 
+=============================================================================
+
+컴퓨터 구성 	         내 컴퓨터 사양
+
+CPU                      Pentium?III (0.18 ?) With 1 Or 2 MB On-Die L2 Cache  ( CPU_Core : 4, CPU_Clock : 2666MHz ) 
+
+OS                       Windows 8 (Build 9200)
+
+남은 하드 공간           354837 MB
+
+RAM                      2048 MB
+
+그래픽카드               NVIDIA GeForce GT 730 ( VideoMemory : 4095MB ) 
+
+드라이버 버젼            dgVoodoo DirectX Wrapper
+
+Direct X 버전            DirectX 12.0
+
+사운드 드라이버          NVIDIA High Definition Audio
+
